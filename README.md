@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Charles M. DeSouza
 
-<!--
-**charlesdesouza88/CharlesDesouza88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | Cybersecurity Specialist | DevOps Enthusiast**
 
-Here are some ideas to get you started:
+I design and build secure, scalable, and user-friendly applications. With a unique background as an Executive Chef, I’ve learned to solve problems under pressure and lead teams — skills I now apply to tech.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Highlights:**
+- Built apps like **ChefTrack** (inventory) & **ChefCalc** (costing) to solve real-world challenges  
+- Developed blockchain dApps: **Legacy Vault** (NFT document wallet) & **Transparent Royalty Management**  
+- Active in hackathons with **Algorand, Polkadot, Stacks, and Harvard**  
+- Skilled across **React, Node.js, Python, Docker, Kubernetes, CI/CD, AWS, and cybersecurity tools**  
+
+🌐 **Portfolio:** [charlesdesouza.tech](https://charlesdesouza.tech)  
+💼 **LinkedIn:** [linkedin.com/in/charlesdesouza88](https://www.linkedin.com/in/charlesdesouza88/)  
+📧 **Email:** [Charlesdesouza88@gmail.com]
