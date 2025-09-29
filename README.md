@@ -1,15 +1,24 @@
 # 👋 Hi, I'm Charles M. DeSouza
 
-💻 **Full-Stack Developer | Cybersecurity Specialist | DevOps Enthusiast**
+🚀 **Full-Stack Developer | Cybersecurity Specialist | DevOps Enthusiast**
 
-I design and build secure, scalable, and user-friendly applications. With a unique background as an Executive Chef, I’ve learned to solve problems under pressure and lead teams — skills I now apply to tech.  
+I combine creativity, technical expertise, and problem-solving skills to build secure, scalable, and user-friendly applications.  
+My journey began as a chef 👨‍🍳 where I created apps to manage kitchens — today I design apps, dApps, and systems that solve real-world problems.
 
-🚀 **Highlights:**
-- Built apps like **ChefTrack** (inventory) & **ChefCalc** (costing) to solve real-world challenges  
-- Developed blockchain dApps: **Legacy Vault** (NFT document wallet) & **Transparent Royalty Management**  
-- Active in hackathons with **Algorand, Polkadot, Stacks, and Harvard**  
-- Skilled across **React, Node.js, Python, Docker, Kubernetes, CI/CD, AWS, and cybersecurity tools**  
+## 🔧 Tech Stack
+- **Languages & Frameworks**: JavaScript (React, Node.js, Vite, Tailwind), Python, SQL, PHP, HTML, CSS  
+- **Cybersecurity**: Threat Modeling, SIEM, OWASP, Pen Testing, Network Security  
+- **DevOps & IT**: Docker, Kubernetes, GitHub Actions, CI/CD, AWS, Azure, Linux  
+- **Blockchain**: Algorand (PyTeal, TypeScript), Stacks (Clarity), NFT standards, DeFi apps  
 
-🌐 **Portfolio:** [charlesdesouza.tech](https://charlesdesouza.tech)  
-💼 **LinkedIn:** [linkedin.com/in/charlesdesouza88](https://www.linkedin.com/in/charlesdesouza88/)  
-📧 **Email:** [Charlesdesouza88@gmail.com]
+## 📌 Highlighted Projects
+- 🗃️ [Legacy Vault](https://github.com/CharlesDesouza88/legacy-vault) – NFT document wallet for validation & identity  
+- 🎵 [Transparent Royalty Management](https://github.com/CharlesDesouza88/royalty-dapp) – smart contracts splitting royalties for musicians  
+- 🎶 [Algorand Music Marketplace](https://github.com/CharlesDesouza88/soundchain) – decentralized music platform with React frontend & Fastify backend  
+- 🍴 ChefTrack & ChefCalc – internal apps for kitchen inventory & dish costing  
+- 🎮 [Pixel-Art Portfolio Game](https://github.com/CharlesDesouza88/portfolio-game) – interactive RPG-style personal site  
+
+## 📫 Connect With Me
+- 🌐 [Portfolio](https://charlesdesouza.tech)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/charlesdesouza88/)  
+- 📧 [Email](mailto:your-email-here)  
