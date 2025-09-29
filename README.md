@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charles M. DeSouza
 
-🚀 **Full-Stack Developer | Cybersecurity Specialist | DevOps Enthusiast**
+🚀 **Full-Stack Developer | Cybersecurity Specialist | DevOps Enthusiast | UX/UID**
 
 I combine creativity, technical expertise, and problem-solving skills to build secure, scalable, and user-friendly applications.  
 My journey began as a chef 👨‍🍳 where I created apps to manage kitchens — today I design apps, dApps, and systems that solve real-world problems.
