@@ -12,13 +12,13 @@ My journey began as a chef 👨‍🍳 where I created apps to manage kitchens �
 - **Blockchain**: Algorand (PyTeal, TypeScript), Stacks (Clarity), NFT standards, DeFi apps  
 
 ## 📌 Highlighted Projects
-- 🗃️ [Legacy Vault](https://github.com/CharlesDesouza88/legacy-vault) – NFT document wallet for validation & identity  
-- 🎵 [Transparent Royalty Management](https://github.com/CharlesDesouza88/royalty-dapp) – smart contracts splitting royalties for musicians  
+- 🗣️ [SpeakEasy](https://github.com/charlesdesouza88/SpeakEasy) – Platform for Brazilian student’s to learn English
+- 👩🏽‍🌾 [GrowDAte](https://github.com/charlesdesouza88/Growdate) – Farmer’s Calendar is a powerful tool designed to help farmers determine the best planting times for various crops 
 - 🎶 [Algorand Music Marketplace](https://github.com/CharlesDesouza88/soundchain) – decentralized music platform with React frontend & Fastify backend  
-- 🍴 ChefTrack & ChefCalc – internal apps for kitchen inventory & dish costing  
-- 🎮 [Pixel-Art Portfolio Game](https://github.com/CharlesDesouza88/portfolio-game) – interactive RPG-style personal site  
+- 🍴 [ChefTrack & ChefCalc](https://github.com/charlesdesouza88/Chef-Calc-3.0)– internal apps for kitchen inventory & dish costing  
+- 👨🏼‍💻 [CNPJ_lookup](https://github.com/CharlesDesouza88/portfolio-game) – Corporate CNPJ look up   
 
 ## 📫 Connect With Me
 - 🌐 [Portfolio](https://charlesdesouza.tech)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/charlesdesouza88/)  
-- 📧 [Email](mailto:your-email-here)  
+- 📧 [Email](Charlesdesouza88@Gmail.com)  
