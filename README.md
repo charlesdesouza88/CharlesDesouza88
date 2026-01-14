@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer | Cybersecurity Specialist | DevOps Enthusiast | UX/UID**
 
 I combine creativity, technical expertise, and problem-solving skills to build secure, scalable, and user-friendly applications.  
-My journey began as a chef 👨‍🍳 where I created apps to manage kitchens — today I design apps, dApps, and systems that solve real-world problems.
+My journey began as a tech specialists started at a young age and i been creating tech tool ever since i could program — today I design apps, dApps, and systems that solve real-world problems.
 
 ## 🔧 Tech Stack
 - **Languages & Frameworks**: JavaScript (React, Node.js, Vite, Tailwind), Python, SQL, PHP, HTML, CSS  
@@ -13,7 +13,7 @@ My journey began as a chef 👨‍🍳 where I created apps to manage kitchens �
 
 ## 📌 Highlighted Projects
 - 🗣️ [SpeakEasy](https://github.com/charlesdesouza88/SpeakEasy) – Platform for Brazilian student’s to learn English
-- 👩🏽‍🌾 [GrowDAte](https://github.com/charlesdesouza88/Growdate) – Farmer’s Calendar is a powerful tool designed to help farmers determine the best planting times for various crops 
+- 👩🏽‍🌾 [GrowDate](https://github.com/charlesdesouza88/Growdate) – Farmer’s Calendar is a powerful tool designed to help farmers determine the best planting times for various crops 
 - 🎶 [Algorand Music Marketplace](https://github.com/CharlesDesouza88/soundchain) – decentralized music platform with React frontend & Fastify backend  
 - 🍴 [ChefTrack & ChefCalc](https://github.com/charlesdesouza88/Chef-Calc-3.0)– internal apps for kitchen inventory & dish costing  
 - 👨🏼‍💻 [CNPJ_lookup](https://github.com/CharlesDesouza88/portfolio-game) – Corporate CNPJ look up   
