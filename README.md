@@ -12,11 +12,12 @@ My journey began as a tech specialists started at a young age and i been creatin
 - **Blockchain**: Algorand (PyTeal, TypeScript), Stacks (Clarity), NFT standards, DeFi apps  
 
 ## 📌 Highlighted Projects
-- 🗣️ [SpeakEasy](https://github.com/charlesdesouza88/SpeakEasy) – Platform for Brazilian student’s to learn English
-- 👩🏽‍🌾 [GrowDate](https://github.com/charlesdesouza88/Growdate) – Farmer’s Calendar is a powerful tool designed to help farmers determine the best planting times for various crops 
-- 🎶 [Algorand Music Marketplace](https://github.com/CharlesDesouza88/soundchain) – decentralized music platform with React frontend & Fastify backend  
-- 🍴 [ChefTrack & ChefCalc](https://github.com/charlesdesouza88/Chef-Calc-3.0)– internal apps for kitchen inventory & dish costing  
-- 👨🏼‍💻 [CNPJ_lookup](https://github.com/CharlesDesouza88/portfolio-game) – Corporate CNPJ look up   
+- 📊 [Mister Wiz Report Compiler](https://github.com/charlesdesouza88/MW-report-copiler) – Teacher dashboard that turns class data into print-ready student report cards and class diagnostics (Python, Flask, PostgreSQL)
+- 🎓 [Wiz Aula](https://github.com/charlesdesouza88/wiz-aula) – Installable PWA for one-tap entry into online classes, with push alerts ([live](https://wiz-aula.vercel.app)) (Next.js, TypeScript, Supabase)
+- 📅 [Tem Vaga](https://github.com/charlesdesouza88/Tem_vaga) – Booking platform for Brazilian service providers with Google Calendar sync and a WhatsApp auto-reply bot ([live](https://tem-vaga.vercel.app)) (Next.js, TypeScript, Supabase)
+- 👩🏽‍🌾 [GrowDate](https://github.com/charlesdesouza88/Growdate) – Planting calendar that recommends what to plant and when, by region and climate zone (C#, .NET 8, Blazor)
+- 🌐 [charlesdesouza.tech](https://github.com/charlesdesouza88/charlesdesouza-tech) – My portfolio site ([live](https://charlesdesouza.tech)) (Next.js 16, Tailwind v4)
+- 🍴 [Chef Calc](https://github.com/charlesdesouza88/Chef-Calc-3.0) – Menu costing and pricing tool for working kitchens (JavaScript)
 
 ## 📫 Connect With Me
 - 🌐 [Portfolio](https://charlesdesouza.tech)  
